@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/starti.unity
+  isLoaded: 1
+  isActive: 1
